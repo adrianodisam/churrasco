@@ -1,10 +1,10 @@
 
 .contanier{
-  max-width: 500px;
+  max-width: 700px;
   margin: auto;
   background-color: #696969;
   padding: 20px;
-  border-radius: 100px 65px 60px 55px;
+  border-radius: 100px 50px 100px 50px;
 margin-top: 70px;
 }
 h1{
@@ -30,4 +30,8 @@ button {
 button:hover{
   background-color: #696969;
 
+}
+#resultado{
+  font-size: 30px;
+  color:	#EEE8AA ;
 }
