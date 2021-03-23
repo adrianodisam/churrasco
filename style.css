@@ -1,3 +1,33 @@
-*{
-  background-color: black;
+
+.contanier{
+  max-width: 500px;
+  margin: auto;
+  background-color: #696969;
+  padding: 20px;
+  border-radius: 100px 65px 60px 55px;
+margin-top: 70px;
+}
+h1{
+ color: #EEE8AA;
+}
+input{
+  width: 100%;
+  display: block;
+  padding: 5px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  border-radius: 10px 59px 51px;
+}
+button {
+  background-color: #A52A2A;
+  border-radius: 10px 59px 51px;
+  width: 50%;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+  margin-left: 120px;
+  color:	#EEE8AA ;
+}
+button:hover{
+  background-color: #696969;
+
 }
