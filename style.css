@@ -1,11 +1,15 @@
-
+body{
+  background-image: url(./img/Steak-meat-barbecue_1920x1080.jpg);
+}
 .contanier{
-  max-width: 700px;
+  max-width: 400px;
   margin: auto;
   background-color: #696969;
   padding: 20px;
   border-radius: 100px 50px 100px 50px;
 margin-top: 70px;
+opacity: 0.9;
+
 }
 h1{
  color: #EEE8AA;
